@@ -1,0 +1,3 @@
+Si, haciendo el merge de las dos ramas con el master.
+
+Si quisiera los datos solo de alfa o beta se deberia hacer el merge de la rama y si quisiera agregar los datos de los dos hago un merge que contenga las dos ramas, y eso añade los datos a un mismo archivo.
